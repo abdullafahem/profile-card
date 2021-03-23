@@ -29,11 +29,12 @@ section {
 
 /* card style */
 .card {
-  width: 350px;
+  width: 380px;
+  height: 400px;
   background: #fff;
   border-radius: 20px;
   position: relative;
-  box-shadow: 2px 2px 20px hsl(227, 10%, 46%);
+  box-shadow: 0 45px 40px -40px hsl(0, 0%, 29%);
 }
 
 /* header style */
